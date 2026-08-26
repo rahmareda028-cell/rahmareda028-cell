@@ -1,58 +1,71 @@
-👩‍💻 Rahma Reda — Computer Science Graduate
+# 👩‍💻 Rahma Reda — Computer Science Graduate
+
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="55%"/> <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="35%"/> <br>
-Computer Science Graduate | Software Developer
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="35%"/>
 
-I am a Computer Science graduate from the Arab Academy for Science, Technology & Maritime Transport (AAST), with a strong interest in Software Development, Mobile Application Development, and Artificial Intelligence.
+<br>
 
-My academic background has provided me with a solid foundation in programming, software engineering, databases, algorithms, and application development.
+### Computer Science Graduate | Mobile Application Developer
 
-Throughout my studies, I developed practical experience in building software solutions and applying computer science concepts to real-world problems, with a particular interest in Flutter, Dart, JavaScript, Backend Development, and AI-based technologies.
+<br>
 
-I am passionate about continuous learning, developing my technical skills, and building reliable and user-friendly software solutions.
+![Computer Science](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
+![Graduation Project](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
-</div> <hr> ## 👋 About Me
+</div>
 
-Hi! I'm Rahma Reda, a Computer Science graduate with a strong interest in software development and mobile application development.
+<hr>
+
+## 👋 About Me
+
+Hi! I'm **Rahma Reda**, a **Computer Science graduate** with a strong interest in software development and mobile application development.
 
 I enjoy building practical software solutions that focus on solving real-world problems and providing a reliable and user-friendly experience.
 
-My main area of interest is mobile application development, especially using Flutter, while I also have experience working with technologies such as JavaScript, Elixir, Phoenix, PostgreSQL, and AI-based solutions through my graduation project.
+My main area of interest is **mobile application development**, especially using **Flutter**, while I also have experience working with technologies such as **JavaScript, Elixir, Phoenix, PostgreSQL, and AI-based solutions** through my graduation project.
 
 I'm continuously working on improving my technical skills, learning new technologies, and developing better software engineering practices.
 
-💻 Tech Stack
-📱 Mobile Development
+---
 
-Flutter
-Dart
+## 💻 Tech Stack
 
-🌐 Programming & Web
+### 📱 Mobile Development
 
-JavaScript
-HTML5
-CSS3
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
 
-⚙️ Backend
+### 🌐 Programming & Web
 
-Elixir
-Phoenix
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-🗄️ Database
+### ⚙️ Backend
 
-PostgreSQL
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat\&logo=phoenixframework\&logoColor=white)
 
-🛠️ Tools
+### 🗄️ Database
 
-Git
-GitHub
-Figma
-VS Code
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-🧰 Technologies & Skills
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🧰 Technologies & Skills
+
+```dart
 class RahmaReda {
 
   final skills = {
@@ -93,62 +106,101 @@ class RahmaReda {
   };
 
 }
-🚀 Featured Project
-🔧 HandIn — Smart Home Maintenance Platform
+```
 
-HandIn is my graduation project, developed to simplify the process of connecting clients with trusted home maintenance professionals, particularly plumbers and electricians.
+---
+
+## 🚀 Featured Project
+
+### 🔧 HandIn — Smart Home Maintenance Platform
+
+**HandIn** is my graduation project, developed to simplify the process of connecting clients with trusted home maintenance professionals, particularly **plumbers and electricians**.
 
 The application provides a centralized platform where users can:
 
-Request maintenance services
-Connect with qualified service providers
-Communicate in real time
-Track service requests
-Rate and review technicians
-Access emergency support
-Make online payments
+* Request maintenance services
+* Connect with qualified service providers
+* Communicate in real time
+* Track service requests
+* Rate and review technicians
+* Access emergency support
+* Make online payments
 
 The project also incorporates modern technologies such as:
 
-Artificial Intelligence
-Image Recognition
-Technician Identity Verification
-OTP Authentication
-Real-Time Communication
-Cloud-Based Infrastructure
-🏆 Graduation Project Achievement
+* Artificial Intelligence
+* Image Recognition
+* Technician Identity Verification
+* OTP Authentication
+* Real-Time Communication
+* Cloud-Based Infrastructure
 
-Graduation Project Grade: Excellent
+### 🏆 Graduation Project Achievement
+
+**Graduation Project Grade: Excellent**
 
 HandIn allowed me to apply my knowledge of software development to a complete real-world system involving mobile development, backend services, databases, authentication, communication, and intelligent verification.
 
-🎯 What I'm Interested In
-📱 Mobile Application Development
-💻 Software Engineering
-🧠 Artificial Intelligence
-🔐 Secure Application Development
-⚡ Backend Development
-🗄️ Database Systems
-🌐 Modern Software Technologies
-📚 Continuous Learning
-🌱 Currently Growing
+---
+
+## 🎯 What I'm Interested In
+
+* 📱 Mobile Application Development
+* 💻 Software Engineering
+* 🧠 Artificial Intelligence
+* 🔐 Secure Application Development
+* ⚡ Backend Development
+* 🗄️ Database Systems
+* 🌐 Modern Software Technologies
+* 📚 Continuous Learning
+
+---
+
+## 🌱 Currently Growing
 
 I'm continuously improving my skills in:
 
-Flutter & Mobile Development
-Software Architecture
-Backend Development
-Database Design
-API Integration
-Clean & Maintainable Code
-Problem Solving
-💡 Development Philosophy
+* Flutter & Mobile Development
+* Software Architecture
+* Backend Development
+* Database Design
+* API Integration
+* Clean & Maintainable Code
+* Problem Solving
 
-Build with purpose. Learn continuously. Improve with every project.
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+> **Build with purpose. Learn continuously. Improve with every project.**
 
 I believe that good software is not only about writing code — it's about understanding problems, designing useful solutions, and creating experiences that people can rely on.
 
-📈 My Development Journey
+---
+
+## 📈 My Development Journey
+
+```text
 Computer Science
        │
        ▼
@@ -174,14 +226,38 @@ Graduation Project — Excellent
        │
        ▼
 Continuous Learning 🚀
-📫 Connect With Me
-<div align="center"> <a href="mailto:rahmareda028@gmail.com"> <img src="https://img.shields.io/badge/Email-rahmareda028%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-Thanks for visiting my profile! 👋
+```
 
-Rahma Reda
+---
 
-Computer Science Graduate | Software Developer
+## 📫 Connect With Me
 
-<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="8%" alt="Star Struck"/>
-Keep Learning. Keep Building. Keep Growing. 🚀
-</div> 32 contributions in the last year [Skip to contributions year list](https://github.com/rishavanand?tab=overview\&from=2026-07-01\&to=2026-07-31#year-link-2026)
+<div align="center">
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR-LINKEDIN-URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+**Rahma Reda**
+
+*Computer Science Graduate | Software Developer*
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="8%" alt="Star Struck"/>
+
+### Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
