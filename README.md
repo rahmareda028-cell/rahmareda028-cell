@@ -1,119 +1,94 @@
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm a **Computer Science Graduate** passionate about software development. <br>
+# 👩‍💻 Rahma Reda — Computer Science Graduate
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp;&nbsp; I'm interested in **Mobile Application Development and Software Engineering**. <br>
+### Computer Science Graduate | Mobile Application Developer
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp;&nbsp; I enjoy building **practical solutions for real-world problems**. <br>
+[Computer Science](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
+[Graduation Project](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
+[Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; My main technology is **Flutter**, with experience in **JavaScript and Backend Development**. <br>
+## 👋 About Me
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp;&nbsp;&nbsp;&nbsp; Graduation Project: **HandIn — Excellent Grade** 🏆 <br>
+Hi! I'm **Rahma Reda**, a **Computer Science graduate** with a strong interest in software development and mobile application development.
 
----
+I enjoy building practical software solutions that focus on solving real-world problems and providing a reliable and user-friendly experience.
 
-## 🚀 Featured Project
+My main area of interest is **mobile application development**, especially using **Flutter**, while I also have experience working with technologies such as **JavaScript, Elixir, Phoenix, PostgreSQL, and AI-based solutions** through my graduation project.
 
-### HandIn — Smart Home Maintenance Platform
-
-**HandIn** is my graduation project, a smart mobile application designed to connect clients with trusted home maintenance professionals, particularly **plumbers and electricians**.
-
-The application provides a secure and user-friendly platform where users can:
-
-- 🔧 Request maintenance services
-- 👨‍🔧 Connect with qualified service providers
-- 💬 Communicate in real time
-- 📋 Track service requests
-- ⭐ Rate and review technicians
-- 🚨 Access emergency support
-- 💳 Make online payments
-
-The project also includes:
-
-- 🤖 AI-based technician identity verification
-- 🖼️ Image recognition
-- 🔐 OTP-based authentication
-- 💬 Real-time communication
-- ☁️ Cloud-based infrastructure
-
-### 🏆 Graduation Project Achievement
-
-**Excellent Grade**
+I'm continuously working on improving my technical skills, learning new technologies, and developing better software engineering practices.
 
 ---
 
-<div align="center">
+## 💻 Tech Stack
 
-## 💻 Development Focus
+### 📱 Mobile Development
 
-<img src="https://img.shields.io/badge/Mobile%20Development-02569B?style=flat&logo=flutter&logoColor=white">
+[Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+[Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-<img src="https://img.shields.io/badge/Software%20Engineering-6A5ACD?style=flat">
+### 🌐 Programming & Web
 
-<img src="https://img.shields.io/badge/Backend%20Development-FD4F00?style=flat">
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<img src="https://img.shields.io/badge/Database%20Design-4169E1?style=flat">
+### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat">
+[Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+[Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat&logo=phoenixframework&logoColor=white)
 
-</div>
+### 🗄️ Database
+
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools
+
+[Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+[Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+[VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📚 Currently Improving
+## 🧰 Technologies & Skills
 
-- Flutter & Dart
-- Mobile Application Development
-- Software Architecture
-- Backend Development
-- Database Design
-- API Integration
-- Artificial Intelligence
-- Problem Solving
-- Clean & Maintainable Code
+```dart
+class RahmaReda {
 
----
+  final skills = {
 
-<div align="center">
+    "Mobile Development": {
+      "Flutter",
+      "Dart"
+    },
 
-## 📞 Contact Me
+    "Programming": {
+      "JavaScript",
+      "Dart"
+    },
 
-<a href="tel:01120162681">
-<img src="https://img.shields.io/badge/Phone-01120162681-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
+    "Backend": {
+      "Elixir",
+      "Phoenix"
+    },
 
-<a href="mailto:rahmareda028@gmail.com">
-<img src="https://img.shields.io/badge/Email-rahmareda028%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+    "Database": {
+      "PostgreSQL"
+    },
 
-</div>
+    "Other": {
+      "AI",
+      "Image Recognition",
+      "OTP Authentication",
+      "Real-Time Communication",
+      "Online Payment"
+    },
 
-<hr>
+    "Tools": {
+      "Git",
+      "GitHub",
+      "Figma",
+      "VS Code"
+    }
+  };
 
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works somehow!"/>
-
-<br><br>
-
-<div align="center">
-
-### 👩‍💻 Rahma Reda
-
-**Computer Science Graduate | Software Developer**
-
-🏆 Graduation Project — **Excellent**
-
-<br>
-
-**Keep Learning. Keep Building. Keep Growing. 🚀**
-
-</div>
-
-</div>
+}
