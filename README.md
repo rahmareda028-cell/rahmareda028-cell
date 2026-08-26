@@ -6,15 +6,13 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="35%"/>
 
-<br>
 
-### Computer Science Graduate | Mobile Application Developer
-
-<br>
 
 ![Computer Science](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
-![Graduation Project](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Graduation girl](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
+
+
+
 
 </div>
 
@@ -170,23 +168,6 @@ I'm continuously improving my skills in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
 
 ---
 
@@ -232,14 +213,16 @@ Continuous Learning 🚀
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="tel:01120162681">
+<img src="https://img.shields.io/badge/Phone-01120162681-25D366?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
 
-<a href="YOUR-LINKEDIN-URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:rahmareda028@gmail.com">
+<img src="https://img.shields.io/badge/Email-rahmareda028%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -247,6 +230,20 @@ Continuous Learning 🚀
 ---
 
 <div align="center">
+
+### Thanks for visiting my profile! 👋
+
+**Rahma Reda**
+
+*Computer Science Graduate | Software Developer*
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="8%" alt="Star Struck"/>
+
+### Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
 
 ### Thanks for visiting my profile! 👋
 
