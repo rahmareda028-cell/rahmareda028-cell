@@ -8,12 +8,6 @@
 
 
 
-![Computer Science](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
-![Graduation girl](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
-
-
-
-
 </div>
 
 <hr>
@@ -211,15 +205,10 @@ Continuous Learning 🚀
 
 ---
 
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
 <div align="center">
-
-<a href="tel:01120162681">
-<img src="https://img.shields.io/badge/Phone-01120162681-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
 
 <a href="mailto:rahmareda028@gmail.com">
 <img src="https://img.shields.io/badge/Email-rahmareda028%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
