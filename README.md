@@ -1,185 +1,108 @@
-# 🔧 HandIn App
+# 👩‍💻 Rahma Reda — Computer Science Graduate
 
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="55%"/> <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/><br>
-
-<h1>HandIn</h1>
-
-<h3>Smart Home Maintenance Services Platform</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="35%"/>
 
 <br>
 
-![Graduation Project](https://img.shields.io/badge/Graduation%20Project-HandIn-blue?style=for-the-badge)
-![Grade](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
+### Computer Science Graduate | Mobile Application Developer
+
+<br>
+
+![Computer Science](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
+![Graduation Project](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 </div>
 
 <hr>
 
-## 📱 About HandIn
+## 👋 About Me
 
-**HandIn App** is a smart mobile application developed to simplify the process of connecting clients with trusted home maintenance professionals, particularly **plumbers and electricians**.
+Hi! I'm **Rahma Reda**, a **Computer Science graduate** with a strong interest in software development and mobile application development.
 
-The application provides a secure and user-friendly digital platform that replaces traditional and unreliable methods of finding technicians.
+I enjoy building practical software solutions that focus on solving real-world problems and providing a reliable and user-friendly experience.
 
-HandIn focuses on improving **trust, transparency, accessibility, response time, and service quality** by bringing clients and qualified service providers together in one centralized platform.
+My main area of interest is **mobile application development**, especially using **Flutter**, while I also have experience working with technologies such as **JavaScript, Elixir, Phoenix, PostgreSQL, and AI-based solutions** through my graduation project.
 
----
-
-## 🎯 Problem
-
-Traditional methods of finding home maintenance professionals often involve several challenges, including:
-
-* Unreliable recommendations
-* Lack of transparency
-* Unverified technician identities
-* Difficulty finding trusted professionals
-* Delayed responses during emergency situations
-* Limited communication between clients and technicians
-
-HandIn was designed to provide a more reliable and efficient solution to these problems.
+I'm continuously working on improving my technical skills, learning new technologies, and developing better software engineering practices.
 
 ---
 
-## 💡 Our Solution
+## 💻 Tech Stack
 
-HandIn creates a centralized digital environment where clients can:
-
-* Request maintenance services
-* Find qualified service providers
-* Communicate directly with technicians
-* Track service requests
-* Rate service providers
-* Access emergency support
-* Make online payments
-
-At the same time, service providers can efficiently manage customer requests and build their professional reputation through verified customer feedback.
-
----
-
-## ✨ Main Features
-
-### 👤 Client
-
-* 🔐 OTP-based authentication
-* 🔧 Request home maintenance services
-* 👨‍🔧 Connect with plumbers and electricians
-* 💬 Real-time communication
-* 📍 Track service requests
-* ⭐ Rate and review service providers
-* 🚨 Emergency support
-* 💳 Online payments
-
-### 👨‍🔧 Service Provider
-
-* 📋 Manage service requests
-* 💬 Communicate with clients
-* 🔧 Manage maintenance services
-* ⭐ Build professional reputation
-* ✅ Receive verified customer feedback
-* 📊 Manage requests efficiently
-
----
-
-## 🤖 AI-Powered Identity Verification
-
-One of the key features of HandIn is its technician identity verification system.
-
-The application incorporates:
-
-* Artificial Intelligence
-* Image Recognition
-* Identity Verification
-
-These technologies help improve the reliability of service providers and increase trust between clients and technicians.
-
----
-
-## 🔐 Authentication
-
-HandIn uses **OTP-based authentication** to provide a secure and convenient login and verification experience.
-
-This helps protect user accounts while keeping the authentication process simple and accessible.
-
----
-
-## 💬 Real-Time Communication
-
-HandIn provides direct communication between clients and service providers.
-
-This allows users to:
-
-* Discuss service requirements
-* Clarify maintenance details
-* Coordinate service requests
-* Respond quickly to urgent situations
-
----
-
-## 💳 Online Payment
-
-The application supports **online payment integration**, providing users with a convenient digital payment experience within the service workflow.
-
----
-
-## ☁️ Cloud-Based Infrastructure
-
-HandIn uses cloud-based infrastructure to support the application's backend services, data management, and communication capabilities.
-
-The architecture is designed to provide a reliable and scalable environment for the platform.
-
----
-
-## 🛠️ Technologies I Used
+### 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
+### 🌐 Programming & Web
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+### ⚙️ Backend
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat\&logo=phoenixframework\&logoColor=white)
+
+### 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+### 🛠️ Tools
 
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
+## 🧰 Technologies & Skills
+
 ```dart
-// HandIn Technology Stack
+class RahmaReda {
 
-class HandIn extends Project {
+  final skills = {
 
-  const technologies = {
-
-    "Mobile Development" : {
+    "Mobile Development": {
       "Flutter",
       "Dart"
     },
 
-    "Backend" : {
+    "Programming": {
+      "JavaScript",
+      "Dart"
+    },
+
+    "Backend": {
       "Elixir",
       "Phoenix"
     },
 
-    "Database" : {
+    "Database": {
       "PostgreSQL"
     },
 
-    "Other Technologies" : {
-      "Artificial Intelligence",
+    "Other": {
+      "AI",
       "Image Recognition",
       "OTP Authentication",
       "Real-Time Communication",
       "Online Payment"
-    }
+    },
 
+    "Tools": {
+      "Git",
+      "GitHub",
+      "Figma",
+      "VS Code"
+    }
   };
 
 }
@@ -187,108 +110,154 @@ class HandIn extends Project {
 
 ---
 
-## 🏗️ System Architecture
+## 🚀 Featured Project
 
-```text
-                         ┌───────────────────────┐
-                         │       HandIn App      │
-                         └───────────┬───────────┘
-                                     │
-                    ┌────────────────┴────────────────┐
-                    │                                 │
-             ┌──────▼──────┐                   ┌──────▼──────┐
-             │    Client   │                   │ Technician  │
-             └──────┬──────┘                   └──────┬──────┘
-                    │                                 │
-                    └────────────────┬────────────────┘
-                                     │
-                              ┌──────▼──────┐
-                              │   Phoenix   │
-                              │   Backend   │
-                              │   + Elixir  │
-                              └──────┬──────┘
-                                     │
-                              ┌──────▼──────┐
-                              │ PostgreSQL  │
-                              └─────────────┘
-```
+### 🔧 HandIn — Smart Home Maintenance Platform
 
----
+**HandIn** is my graduation project, developed to simplify the process of connecting clients with trusted home maintenance professionals, particularly **plumbers and electricians**.
 
-## 🧪 Testing
+The application provides a centralized platform where users can:
 
-HandIn was tested using different testing approaches to ensure **reliability, performance, and usability**.
+* Request maintenance services
+* Connect with qualified service providers
+* Communicate in real time
+* Track service requests
+* Rate and review technicians
+* Access emergency support
+* Make online payments
 
-### ✅ Functional Testing
+The project also incorporates modern technologies such as:
 
-Functional testing was performed to verify that the application's main features work correctly, including:
+* Artificial Intelligence
+* Image Recognition
+* Technician Identity Verification
+* OTP Authentication
+* Real-Time Communication
+* Cloud-Based Infrastructure
 
-* Authentication
-* Service requests
-* Communication
-* Payments
-* Rating system
+### 🏆 Graduation Project Achievement
 
-### 🎨 Usability Testing
+**Graduation Project Grade: Excellent**
 
-Usability testing was conducted to evaluate the user experience and ensure that the application is easy to navigate and use.
-
-### ⚡ Performance Testing
-
-Performance testing was applied to evaluate:
-
-* System responsiveness
-* Stability
-* Performance under different conditions
+HandIn allowed me to apply my knowledge of software development to a complete real-world system involving mobile development, backend services, databases, authentication, communication, and intelligent verification.
 
 ---
 
-## 🎓 Graduation Project
+## 🎯 What I'm Interested In
 
-HandIn was developed as a **Graduation Project** as part of my studies in **Computer and Information Technology**.
-
-🏆 **Graduation Project Grade: Excellent**
-
-The project combines mobile application development, backend engineering, database management, artificial intelligence, image recognition, secure authentication, real-time communication, and online payment integration into one complete solution.
+* 📱 Mobile Application Development
+* 💻 Software Engineering
+* 🧠 Artificial Intelligence
+* 🔐 Secure Application Development
+* ⚡ Backend Development
+* 🗄️ Database Systems
+* 🌐 Modern Software Technologies
+* 📚 Continuous Learning
 
 ---
 
-## 👩‍💻 About Me
+## 🌱 Currently Growing
+
+I'm continuously improving my skills in:
+
+* Flutter & Mobile Development
+* Software Architecture
+* Backend Development
+* Database Design
+* API Integration
+* Clean & Maintainable Code
+* Problem Solving
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="40" alt="Developer"/>
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
 
-### Rahma Reda
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-🎓 Computer & Information Technology Graduate
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
-💻 Mobile Application Developer
+</a>
 
-🏆 Graduation Project — **Excellent**
+<br><br>
 
-🔧 Project — **HandIn**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
 ---
 
-## 🌟 Project Vision
+## 💡 Development Philosophy
 
-> **HandIn aims to transform the traditional home maintenance experience into a trusted, secure, and accessible digital service.**
+> **Build with purpose. Learn continuously. Improve with every project.**
 
-By connecting clients with qualified professionals through a centralized platform, HandIn aims to improve service quality, reduce response time, and strengthen trust between clients and service providers.
+I believe that good software is not only about writing code — it's about understanding problems, designing useful solutions, and creating experiences that people can rely on.
+
+---
+
+## 📈 My Development Journey
+
+```text
+Computer Science
+       │
+       ▼
+Programming Fundamentals
+       │
+       ▼
+Mobile Development
+       │
+       ▼
+Flutter & Dart
+       │
+       ▼
+Backend & Databases
+       │
+       ▼
+Real-World Application Development
+       │
+       ▼
+        HandIn
+       │
+       ▼
+Graduation Project — Excellent
+       │
+       ▼
+Continuous Learning 🚀
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR-LINKEDIN-URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🔧 HandIn
+### Thanks for visiting my profile! 👋
 
-**Smart • Secure • Reliable • Connected**
+**Rahma Reda**
+
+*Computer Science Graduate | Software Developer*
 
 <br>
 
-Made with ❤️ as a Graduation Project
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="8%" alt="Star Struck"/>
+
+### Keep Learning. Keep Building. Keep Growing. 🚀
 
 </div>
