@@ -8,18 +8,19 @@
 
 <br>
 
-### Computer Science Graduate | Mobile Application Developer
+### Computer Science Graduate | Software Developer
 
-<br>
+I am a **Computer Science graduate** from the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, with a strong interest in **Software Development, Mobile Application Development, and Artificial Intelligence**.
 
-![Computer Science](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
-![Graduation Project](https://img.shields.io/badge/Graduation%20Project-Excellent-gold?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+My academic background has provided me with a solid foundation in **programming, software engineering, databases, algorithms, and application development**.
+
+Throughout my studies, I developed practical experience in building software solutions and applying computer science concepts to real-world problems, with a particular interest in **Flutter, Dart, JavaScript, Backend Development, and AI-based technologies**.
+
+I am passionate about continuous learning, developing my technical skills, and building reliable and user-friendly software solutions.
 
 </div>
 
 <hr>
-
 ## 👋 About Me
 
 Hi! I'm **Rahma Reda**, a **Computer Science graduate** with a strong interest in software development and mobile application development.
