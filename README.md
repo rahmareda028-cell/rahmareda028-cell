@@ -21,6 +21,7 @@ I am passionate about continuous learning, developing my technical skills, and b
 </div>
 
 <hr>
+
 ## 👋 About Me
 
 Hi! I'm **Rahma Reda**, a **Computer Science graduate** with a strong interest in software development and mobile application development.
@@ -171,8 +172,6 @@ I'm continuously improving my skills in:
 
 ---
 
-
-
 ## 💡 Development Philosophy
 
 > **Build with purpose. Learn continuously. Improve with every project.**
@@ -210,6 +209,48 @@ Graduation Project — Excellent
        ▼
 Continuous Learning 🚀
 ```
+
+---
+
+## 📊 GitHub Contributions
+
+<div align="center">
+
+### 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahmaReda&theme=react-dark&hide_border=true&area=true" width="95%" alt="Rahma Reda GitHub Contribution Graph"/>
+
+<br><br>
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=RahmaReda&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="Rahma Reda GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaReda&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages"/>
+
+<br><br>
+
+### 🏆 GitHub Profile Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=RahmaReda&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" width="95%" alt="GitHub Profile Trophy"/>
+
+</div>
+
+---
+
+## 📌 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahmaReda&theme=github_dark" width="95%" alt="GitHub Profile Details"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahmaReda&theme=github_dark" width="45%" alt="Repositories Per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmaReda&theme=github_dark" width="45%" alt="Most Commit Language"/>
+
+</div>
 
 ---
 
